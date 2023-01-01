@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "f1db82db67d18d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d30ff197b7c9852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b007eb483481adc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 简介/Java简史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6959bbb46c5d47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ec86f3b2892501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0c394c6cf7a8db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fa41e981187c88d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6250bc1d4e988b3d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9fa694206f3543e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa213a6d5a6590ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770f25964dd16a48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. 简介/Java简史.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "febd1f6d47df36e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. 简介/Java简史.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86835bacdd4cfc43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1c21339f962a3ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. 简介/Java简史.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d0c394c6cf7a8db",
+  "lastOpenFiles": []
+}
